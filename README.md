@@ -7,13 +7,13 @@ Here's the players who have improved the most in the past ~2 years.
 
 <a href="https://ibb.co/hf23JHk"><img src="https://i.ibb.co/RyQRkP1/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
 
-|El_Matador|2279|1464|815|118| 
+|El_Matador|2279|1464|815|118| <br>
 
-|The Illusionist|2305|1491|814|71| 
+|The Illusionist|2305|1491|814|71| <br>
 
-|[o.p.]fatman|2160|1390|770|186| 
+|[o.p.]fatman|2160|1390|770|186| <br>
 
-|FreakinAndy|2370|1616|754|65|
+|FreakinAndy|2370|1616|754|65| <br>
 
 The average top 200 player increased their rating by 424 elo from June 2020 to July 2022.
 
